@@ -1,6 +1,6 @@
 # Customer Churn Analysis Dashboard – Telecommunications Company
 
-This project presents an interactive Power BI dashboard that analyzes customer churn behavior in a telecommunications context. It simulates a real-world scenario similar to telecom providers like Telenet, with insights across customer demographics, service usage, revenue contribution, and churn drivers.
+This project presents an interactive Power BI dashboard that analyzes customer churn behavior in a telecommunications context.
 
 ## Objective
 
